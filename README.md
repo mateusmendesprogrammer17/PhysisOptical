@@ -1,5 +1,5 @@
-# PhysisVisionFisica
-PhysisVisionFisica é um aplicativo móvel desenvolvido em React Native utilizando o Expo para ajudar no estudo de conceitos e problemas de óptica. Este projeto foi desenvolvido como parte de um trabalho acadêmico, com foco em  demonstrar o comportamento de espelhos e lentes esféricas através de cálculos utilizando a equação de Gauss e equação da ampliação, permitindo aos usuários calcular e visualizar as propriedades das imagens formadas por esses dispositivos.
+# Physis Optical
+Physis Optical é um aplicativo móvel desenvolvido em React Native utilizando o Expo para ajudar no estudo de conceitos e problemas de óptica. Este projeto foi desenvolvido como parte de um trabalho acadêmico, com foco em  demonstrar o comportamento de espelhos e lentes esféricas através de cálculos utilizando a equação de Gauss e equação da ampliação, permitindo aos usuários calcular e visualizar as propriedades das imagens formadas por esses dispositivos.
 
 Funcionalidades
 Cálculos de Distância da Imagem e Ampliação: O aplicativo permite calcular a distância da imagem, ampliação e tamanho da imagem formada por lentes e espelhos.
