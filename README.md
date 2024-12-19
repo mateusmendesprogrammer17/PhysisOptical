@@ -1,10 +1,11 @@
 # PhysisVisionFisica
-PhysisVisionFisica é um aplicativo móvel desenvolvido em React Native utilizando o Expo para ajudar no estudo de conceitos e problemas de óptica. Este projeto foi desenvolvido como parte de um trabalho acadêmico, com foco em simular e demonstrar o comportamento de espelhos e lentes esféricas, permitindo aos usuários calcular e visualizar as propriedades das imagens formadas por esses dispositivos.
+PhysisVisionFisica é um aplicativo móvel desenvolvido em React Native utilizando o Expo para ajudar no estudo de conceitos e problemas de óptica. Este projeto foi desenvolvido como parte de um trabalho acadêmico, com foco em  demonstrar o comportamento de espelhos e lentes esféricas através de cálculos utilizando a equação de Gauss e equação da ampliação, permitindo aos usuários calcular e visualizar as propriedades das imagens formadas por esses dispositivos.
 
 Funcionalidades
 Cálculos de Distância da Imagem e Ampliação: O aplicativo permite calcular a distância da imagem, ampliação e tamanho da imagem formada por lentes e espelhos.
+
 Interface Interativa: A interface é simples e intuitiva, com campos de entrada para distância focal, distância do objeto e tipo de espelho/lente, além de exibir os resultados de forma clara e objetiva.
-Visualização Gráfica: Resultados gráficos para ampliação e orientação das imagens formadas.
+
 Funcionalidades Implementadas
 Simulação de Espelhos Esféricos (Côncavo e Convexo): Cálculos baseados na fórmula de Gauss para determinar a posição da imagem, ampliação, e orientação (real ou virtual, direita ou invertida).
 Simulação de Lentes Esféricas (Convergente e Divergente): Cálculos para determinar a posição da imagem, ampliação, tipo de imagem (real ou virtual) e orientação (direita ou invertida).
@@ -12,8 +13,8 @@ Exibição de Resultados: O aplicativo exibe a ampliação, o tipo e a orientaç
 Tecnologias Utilizadas
 React Native: Framework utilizado para o desenvolvimento do aplicativo móvel.
 Expo: Utilizado para facilitar o desenvolvimento e testes no ambiente de React Native.
-React Navigation: Biblioteca utilizada para navegação entre as telas do aplicativo.
-Bibliotecas de Cálculo: A matemática para cálculos de óptica é realizada diretamente no código, utilizando funções simples para implementar as fórmulas de Gauss para espelhos e lentes.
+
+A matemática para cálculos de óptica é realizada diretamente no código, utilizando funções simples para implementar as fórmulas de Gauss para espelhos e lentes.
 Como Usar
 Instalação do APK
 O APK do aplicativo já foi carregado e pode ser instalado diretamente em dispositivos Android. Para usuários que não querem rodar o código localmente, basta baixar o APK e instalar no seu dispositivo.
